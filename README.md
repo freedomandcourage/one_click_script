@@ -28,7 +28,7 @@ curl -O https://raw.githubusercontent.com/jinwyp/one_click_script/master/trojan_
 #### via wget 安装命令 
 
 ```bash
-wget --no-check-certificate https://raw.githubusercontent.com/jinwyp/one_click_script/master/trojan_v2ray_install.sh && chmod +x ./trojan_v2ray_install.sh && ./trojan_v2ray_install.sh
+wget --no-check-certificate https://raw.githubusercontent.com/freedomandcourage/one_click_script/master/trojan_v2ray_install.sh && chmod +x ./trojan_v2ray_install.sh && ./trojan_v2ray_install.sh
 
 ```
 
